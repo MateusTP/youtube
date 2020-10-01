@@ -1,0 +1,22 @@
+html{
+    margin: 0;
+
+    --primary-color: #282c34;
+    --secondary-color: #343b47;
+    --text-color: #FFF; 
+}
+header{
+    height:  100px;
+    background-color: var(--primary-color);
+    display: flex;
+    flex-direction: row;
+    padding-left: 15px;
+    padding-right: 15px;
+    justify-content: space-between;
+    color: var(--text-color)
+
+}
+main{
+    height: 100vh;
+    background-color: var(--secondary-color);
+}
