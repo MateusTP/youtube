@@ -13,10 +13,13 @@ function App() {
         <div id="searchLog">
           <input id="inputForSearch">
           </input>
+          <button>
+            Search
+          </button>
         </div>
         <div id="usersDiv">
           <h1>
-            users
+            Login
           </h1>
         </div>
 
